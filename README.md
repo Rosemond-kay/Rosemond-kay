@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Rosemond! 👋
 
-<!--
-**Rosemond-kay/Rosemond-kay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
 
-Here are some ideas to get you started:
+I'm a passionate **Frontend Developer** with experience in **HTML, CSS and JavaScript**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning: **Software Development**
+- 🔭 Working on: **A personal portfolio website**
+- 🌍 Languages: **Python, Java, English**
+- 📫 How to reach me: **(https://www.linkedin.com/in/rosemond-ampomah-/)**
+- ⚡ Fun fact: **I love reading**
+
+
+- **[LinkedIn]**(https://www.linkedin.com/in/rosemond-ampomah-/)
+- **[Twitter]**(https://x.com/_Ewura_Abena)
