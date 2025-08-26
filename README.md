@@ -6,7 +6,7 @@ I'm a passionate **Frontend Developer** with experience in **HTML, CSS and JavaS
 
 - 🌱 Currently learning: **Software Development**
 - 🔭 Working on: **A personal portfolio website**
-- 🌍 Languages: **Python, Java, English**
+- 🌍 Languages: **HTML, CSS, JavaScript, English**
 - 📫 How to reach me: **(https://www.linkedin.com/in/rosemond-ampomah-/)**
 - ⚡ Fun fact: **I love reading**
 
